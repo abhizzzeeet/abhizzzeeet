@@ -6,6 +6,6 @@ Contributed to Driwix — a cross-platform logistics and transport app developed
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in//in/abhijeet-basfore-b8a9b420a/](https://www.linkedin.com/in/abhijeet-basfore-b8a9b420a/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetbasfore@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[[https://linkedin.com/in//in/abhijeet-basfore-b8a9b420a/](https://www.linkedin.com/in/abhizzzeeet/)](https://www.linkedin.com/in/abhizzzeeet/)]([https://www.linkedin.com/in/abhijeet-basfore-b8a9b420a/](https://www.linkedin.com/in/abhizzzeeet/))) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetbasfore@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
